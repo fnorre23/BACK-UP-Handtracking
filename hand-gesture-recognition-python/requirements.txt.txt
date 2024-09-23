@@ -1,0 +1,7 @@
+pandas
+tf-nightly
+tensorflow
+matplotlib
+scikit-learn
+opencv-python
+mediapipe
